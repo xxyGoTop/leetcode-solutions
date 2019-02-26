@@ -1,3 +1,5 @@
+package reverseinteger
+
 /*
  * @lc app=leetcode id=7 lang=golang
  *
@@ -41,7 +43,6 @@
  * overflows.
  *
  */
-package reverseInteger
 
 import (
 	"math"
