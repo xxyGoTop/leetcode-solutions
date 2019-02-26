@@ -1,7 +1,7 @@
 # leetcode-solutions
 leetcode solutions
 
-## three anguage
+## three anguage to solution
 
 * javascript
 * python
