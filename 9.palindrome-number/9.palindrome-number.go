@@ -61,7 +61,6 @@ func isPalindrome(x int) bool {
 
 	if res == x {
 		return true
-	} else {
-		return false
 	}
+	return false
 }
