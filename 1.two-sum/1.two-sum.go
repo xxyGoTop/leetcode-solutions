@@ -1,3 +1,5 @@
+package twosum
+
 /*
  * @lc app=leetcode id=1 lang=golang
  *
@@ -29,6 +31,7 @@
  *
  *
  */
+
 func twoSum(nums []int, target int) []int {
 	m := map[int]int{}
 	res := []int{}
