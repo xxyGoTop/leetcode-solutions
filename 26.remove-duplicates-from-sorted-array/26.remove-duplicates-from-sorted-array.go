@@ -1,3 +1,5 @@
+package removeduplicates
+
 /*
  * @lc app=leetcode id=26 lang=golang
  *
@@ -71,4 +73,3 @@ func removeDuplicates(nums []int) int {
 
 	return i + 1
 }
-
