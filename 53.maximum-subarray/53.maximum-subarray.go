@@ -27,7 +27,7 @@
  * If you have figured out the O(n) solution, try coding another solution using
  * the divide and conquer approach, which is more subtle.
  * 
- * 数字依次相加 每次保存当前计算值，第一次对比的值是当前系统最小值
+ * 数字依次相加 每次保存当前计算值，第一次对比的值是当前系统最小值 comment note
  */
 func maxSubArray(nums []int) int {
 		var maxsum, sum int
